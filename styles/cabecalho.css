@@ -1,0 +1,34 @@
+.header__container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.header__container-filho{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header__titulo {
+    font-size: 18px;
+    color: var(--cinza-escuro);
+    margin-left: .5em;
+}
+
+.header__centro, .header__direita {
+    margin-left: 2em;
+    color: var(--cinza);
+}
+
+#cadastrar {
+    background-color: var(--vinho);
+    color: var(--branco);
+    border-radius: 8px;
+    width: 112px;
+    text-align: center;
+    padding: 12px;
+}
+
+.link2 {
+    color: var(--branco);
+}

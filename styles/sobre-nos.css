@@ -1,0 +1,23 @@
+.sobre-nos__h3 {
+    font-weight: 600;
+    color: var(--vinho);
+    width: 6rem;
+    margin: 6rem auto 1rem auto;
+}
+
+.sobre-nos__h2 {
+    font-size: 48px;
+    font-weight: 600;
+    color: var(--preto);
+    width: 39rem;
+    margin: 3rem auto;
+}
+
+.sobre-nos__descricao {
+    font-size: 20px;
+    font-weight: 400;
+    color: var(--cinza-claro);
+    width: 49rem;
+    margin: 0 auto;
+    text-align: center;
+}

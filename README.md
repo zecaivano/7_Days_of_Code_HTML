@@ -1,6 +1,5 @@
-#7DaysOfCode HTML
-Desafio do projeto de 7 dias de código HTML e CSS da Alura
-
-Esse projeto foi realizado para um desafio de 7 dias de código criado pela Giovanna Moeller, em parceria com a Alura, uma empresa de educação em tecnologia.
-
+#7DaysOfCode #HTML #OptimusTech<br>
+Fui desafiado pela Giovanna Moeller. <br>
+Acompanhe o resultado final em https://www.zecaivano.com/Alura/7DaysOfCode/index.html <br>
+Mais detalhes em https://7daysofcode.io/matricula/html-css
 
